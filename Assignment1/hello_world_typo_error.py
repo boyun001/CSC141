@@ -1,1 +1,0 @@
-rpint("Hello Python world!")

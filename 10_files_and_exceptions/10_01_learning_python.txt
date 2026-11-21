@@ -1,0 +1,4 @@
+In Python you can.... make a character pop up on a window.
+In Python you can.... make the character move around the window.
+In Python you can.... count how many biologists use Python POWER.
+
